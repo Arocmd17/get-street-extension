@@ -2,5 +2,10 @@
     "manifest_version":2,
     "name": "Get Street",
     "version":"1.0",
-    "description":"Get street details from Google map"
+    "description":"Get street details from Google map",
+    "icons":{
+        "128":"images/icon128.png",
+        "48":"images/icon48.png",
+        "16":"images/icon16.png"
+    }
 }
