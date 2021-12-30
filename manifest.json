@@ -1,0 +1,6 @@
+{
+    "manifest_version":2,
+    "name": "Get Street",
+    "version":"1.0",
+    "description":"Get street details from Google map"
+}
